@@ -616,20 +616,33 @@
 
         <section class="contact-form">
           <h3 class="h3 form-title">Contact Form</h3>
-          <form action="#" class="form" data-form>
+          <form action="https://formsubmit.co/8889969395149a5f9965d76720cfde84" class="form" data-form method="POST">
+
               <div class="input-wrapper" style="display: flex; flex-direction: column;">
-                  <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
-                  <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+
+                  <input type="text" name="Name" class="form-input" placeholder="Full name" required data-form-input autocomplete="off">
+
+                  <input type="email" name="Email" class="form-input" placeholder="Email address" required data-form-input autocomplete="off">
+
               </div>
+
               <div class="input-wrapper" style="display: flex; flex-direction: column; align-items: center;">
-                  <input type="text" name="subject" class="form-input" placeholder="Subject" required data-form-input>
+                  
+                <input type="text" name="Subject" class="form-input" placeholder="Subject" required data-form-input autocomplete="off">
+
               </div>
-              <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+
+              <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input autocomplete="off" name="Message"></textarea>
+
+              <input type="hidden" name="_template" value="box">
+
+
               <button class="form-btn" type="submit" disabled data-form-btn>
                   <ion-icon name="paper-plane"></ion-icon>
                   <span>Send Message</span>
               </button>
-          </form>
+          
+            </form>
       </section>
             
       
@@ -639,11 +652,6 @@
     </div>
 
   </main>
-
-
-
-
-
 
   <!--
     - custom js link
