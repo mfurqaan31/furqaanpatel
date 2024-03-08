@@ -1,0 +1,13 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#cfff04" width="90px" height="90px" viewBox="-6.4 -6.4 76.80 76.80" data-name="Layer 1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" stroke="#cfff04">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier">
+<polygon points="26 22.414 24.414 24 27.586 24 26 22.414"/>
+<polygon points="38 22.414 36.414 24 39.586 24 38 22.414"/>
+<path d="M25,55H5v2H26a1,1,0,0,0,1-1V31H25Z"/>
+<path d="M37,56a1,1,0,0,0,1,1H59V55H39V31H37Z"/>
+<path d="M57.707,39.293A1,1,0,0,0,56,40v3H43V33h7a12,12,0,0,0,.073-24A11.482,11.482,0,0,0,29.687,7.523,11.5,11.5,0,0,0,11,16.5V19H9A7,7,0,0,0,9,33H21V43H8V40a1,1,0,0,0-1.707-.707l-4,4a1,1,0,0,0,0,1.414l4,4A1,1,0,0,0,8,48V45H22a1,1,0,0,0,1-1V32a1,1,0,0,0-1-1h3V26H22a1,1,0,0,1-.707-1.707l4-4a1,1,0,0,1,1.414,0l4,4A1,1,0,0,1,30,26H27v5H37V26H34a1,1,0,0,1-.707-1.707l4-4a1,1,0,0,1,1.414,0l4,4A1,1,0,0,1,42,26H39v5h3a1,1,0,0,0-1,1V44a1,1,0,0,0,1,1H56v3a1,1,0,0,0,1.707.707l4-4a1,1,0,0,0,0-1.414ZM56,24H54V22h2ZM50,14a6.006,6.006,0,0,1,6,6H54a4,4,0,0,0-4-4ZM6,45.586,4.414,44,6,42.414Zm52,0V42.414L59.586,44Z"/>
+</g>
+</svg>
